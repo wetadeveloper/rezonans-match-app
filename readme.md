@@ -121,7 +121,6 @@ Her kullanıcı kısa bir ses profili kaydeder. Eşleşme gerçekleşmeden önce
 **Aylık** · **3 Aylık** · **Yıllık** plan seçenekleri mevcuttur.
 
 ---
-
 ## 🔒 Güvenlik & Gizlilik
 
 Kullanıcı güvenliği Rezonans'ın en önemli önceliğidir:
@@ -134,7 +133,7 @@ Kullanıcı güvenliği Rezonans'ın en önemli önceliğidir:
 - ✅ **İki Faktörlü Doğrulama**: Hesap güvenliği için ekstra koruma
 - ✅ **Veri Silme**: İstediğin zaman hesabını ve tüm verilerini silebilirsin
 
-Detaylı bilgi için [Gizlilik Politikası](PRIVACY.md) sayfasını inceleyin.
+Detaylı bilgi için aşağıdaki **Yasal** bölümünden dilinize uygun Gizlilik Politikası sayfasını inceleyebilirsiniz.
 
 ---
 
@@ -173,7 +172,18 @@ Genellikle **24 saat** içinde yanıt veriyoruz.
 
 ## ⚖️ Yasal
 
-- [Gizlilik Politikası](PRIVACY.md)
+Farklı bölgelerdeki kullanıcılarımız için Gizlilik Politikası (Privacy Policy) dosyalarımıza aşağıdan ulaşabilirsiniz:
+
+| Dosya | Dil | Kod |
+|---|---|---|
+| [PRIVACY_tr.md](legal/PRIVACY_tr.md) | Türkçe | `tr-TR` |
+| [PRIVACY_en.md](legal/PRIVACY_en.md) | English (U.S.) | `en-US` |
+| [PRIVACY_es.md](legal/PRIVACY_es.md) | Español (España) | `es-ES` |
+| [PRIVACY_ar.md](legal/PRIVACY_ar.md) | العربية | `ar-SA` |
+| [PRIVACY_de.md](legal/PRIVACY_de.md) | Deutsch | `de-DE` |
+| [PRIVACY_fr.md](legal/PRIVACY_fr.md) | Français | `fr-FR` |
+| [PRIVACY_pt.md](legal/PRIVACY_pt.md) | Português (Portugal) | `pt-PT` |
+
 - [Kullanım Koşulları](TERMS.md)
 
 ---
