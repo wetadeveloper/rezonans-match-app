@@ -114,7 +114,7 @@ El diseño, el logotipo, el código fuente y todo el contenido original de la ap
 
 ## 10. Privacidad
 
-Para obtener información sobre cómo se procesan sus datos personales, consulte nuestra [Política de Privacidad](PRIVACY_es.md).
+Para obtener información sobre cómo se procesan sus datos personales, consulte nuestra [Política de Privacidad](../privacy/PRIVACY_es.md).
 
 ---
 

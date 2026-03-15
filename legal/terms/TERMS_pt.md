@@ -114,7 +114,7 @@ O design, o logótipo, o código fonte e todo o conteúdo original da aplicaçã
 
 ## 10. Privacidade
 
-Para informações sobre como os seus dados pessoais são tratados, consulte a nossa [Política de Privacidade](PRIVACY_pt.md).
+Para informações sobre como os seus dados pessoais são tratados, consulte a nossa [Política de Privacidade](../privacy/PRIVACY_pt.md).
 
 ---
 
