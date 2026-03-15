@@ -198,6 +198,15 @@ Farklı bölgelerdeki kullanıcılarımız için Gizlilik Politikası dosyaları
 | [TERMS_fr.md](legal/terms/TERMS_fr.md) | Français | `fr-FR` |
 | [TERMS_pt.md](legal/terms/TERMS_pt.md) | Português (Portugal) | `pt-PT` |
 
+### 🛡️ Çocuk Güvenliği Politikası (Child Safety / CSAE Policy)
+
+| Dosya | Dil | Kod |
+|---|---|---|
+| [CSAE_POLICY_tr.md](legal/CSAE_POLICY_tr.md) | Türkçe | `tr-TR` |
+| [CSAE_POLICY_en.md](legal/CSAE_POLICY_en.md) | English (U.S.) | `en-US` |
+
+> Özet için: [CSAE_POLICY.md](legal/CSAE_POLICY.md)
+
 ### 🗑️ Hesap Silme (Account Deletion)
 
 - [ACCOUNT_DELETION.md](legal/ACCOUNT_DELETION.md)
