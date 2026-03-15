@@ -4,8 +4,8 @@ This document outlines Rezonans's standards against Child Sexual Abuse and Explo
 
 **Full policy documents:**
 
-- [English Version](docs/legal/CSAE_POLICY_en.md)
-- [Turkish Version / Türkçe](docs/legal/CSAE_POLICY_tr.md)
+- [English Version](CSAE_POLICY_en.md)
+- [Turkish Version / Türkçe](CSAE_POLICY_tr.md)
 
 ---
 
