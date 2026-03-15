@@ -114,7 +114,7 @@ Das Design, das Logo, der Quellcode und alle originalen Inhalte der Rezonans-App
 
 ## 10. Datenschutz
 
-Informationen zur Verarbeitung Ihrer personenbezogenen Daten finden Sie in unserer [Datenschutzrichtlinie](PRIVACY_de.md).
+Informationen zur Verarbeitung Ihrer personenbezogenen Daten finden Sie in unserer [Datenschutzrichtlinie](../privacy/PRIVACY_de.md).
 
 ---
 

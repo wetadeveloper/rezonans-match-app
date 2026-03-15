@@ -172,19 +172,35 @@ Genellikle **24 saat** içinde yanıt veriyoruz.
 
 ## ⚖️ Yasal
 
-Farklı bölgelerdeki kullanıcılarımız için Gizlilik Politikası (Privacy Policy) dosyalarımıza aşağıdan ulaşabilirsiniz:
+### 🔒 Gizlilik Politikası (Privacy Policy)
+
+Farklı bölgelerdeki kullanıcılarımız için Gizlilik Politikası dosyalarımıza aşağıdan ulaşabilirsiniz:
 
 | Dosya | Dil | Kod |
 |---|---|---|
-| [PRIVACY_tr.md](legal/PRIVACY_tr.md) | Türkçe | `tr-TR` |
-| [PRIVACY_en.md](legal/PRIVACY_en.md) | English (U.S.) | `en-US` |
-| [PRIVACY_es.md](legal/PRIVACY_es.md) | Español (España) | `es-ES` |
-| [PRIVACY_ar.md](legal/PRIVACY_ar.md) | العربية | `ar-SA` |
-| [PRIVACY_de.md](legal/PRIVACY_de.md) | Deutsch | `de-DE` |
-| [PRIVACY_fr.md](legal/PRIVACY_fr.md) | Français | `fr-FR` |
-| [PRIVACY_pt.md](legal/PRIVACY_pt.md) | Português (Portugal) | `pt-PT` |
+| [PRIVACY_tr.md](legal/privacy/PRIVACY_tr.md) | Türkçe | `tr-TR` |
+| [PRIVACY_en.md](legal/privacy/PRIVACY_en.md) | English (U.S.) | `en-US` |
+| [PRIVACY_es.md](legal/privacy/PRIVACY_es.md) | Español (España) | `es-ES` |
+| [PRIVACY_ar.md](legal/privacy/PRIVACY_ar.md) | العربية | `ar-SA` |
+| [PRIVACY_de.md](legal/privacy/PRIVACY_de.md) | Deutsch | `de-DE` |
+| [PRIVACY_fr.md](legal/privacy/PRIVACY_fr.md) | Français | `fr-FR` |
+| [PRIVACY_pt.md](legal/privacy/PRIVACY_pt.md) | Português (Portugal) | `pt-PT` |
 
-- [Kullanım Koşulları](TERMS.md)
+### 📋 Kullanım Koşulları (Terms of Service)
+
+| Dosya | Dil | Kod |
+|---|---|---|
+| [TERMS_tr.md](legal/terms/TERMS_tr.md) | Türkçe | `tr-TR` |
+| [TERMS_en.md](legal/terms/TERMS_en.md) | English (U.S.) | `en-US` |
+| [TERMS_es.md](legal/terms/TERMS_es.md) | Español (España) | `es-ES` |
+| [TERMS_ar.md](legal/terms/TERMS_ar.md) | العربية | `ar-SA` |
+| [TERMS_de.md](legal/terms/TERMS_de.md) | Deutsch | `de-DE` |
+| [TERMS_fr.md](legal/terms/TERMS_fr.md) | Français | `fr-FR` |
+| [TERMS_pt.md](legal/terms/TERMS_pt.md) | Português (Portugal) | `pt-PT` |
+
+### 🗑️ Hesap Silme (Account Deletion)
+
+- [ACCOUNT_DELETION.md](legal/ACCOUNT_DELETION.md)
 
 ---
 

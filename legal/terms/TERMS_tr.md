@@ -114,7 +114,7 @@ Rezonans uygulamasının tasarımı, logosu, kaynak kodu ve tüm özgün içerik
 
 ## 10. Gizlilik
 
-Kişisel verilerinizin nasıl işlendiği hakkında bilgi için [Gizlilik Politikası](PRIVACY_tr.md) belgemizi inceleyin.
+Kişisel verilerinizin nasıl işlendiği hakkında bilgi için [Gizlilik Politikası](../privacy/PRIVACY_tr.md) belgemizi inceleyin.
 
 ---
 

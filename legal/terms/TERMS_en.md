@@ -114,7 +114,7 @@ The design, logo, source code, and all original content of the Rezonans applicat
 
 ## 10. Privacy
 
-For information on how your personal data is processed, please review our [Privacy Policy](PRIVACY_en.md).
+For information on how your personal data is processed, please review our [Privacy Policy](../privacy/PRIVACY_en.md).
 
 ---
 

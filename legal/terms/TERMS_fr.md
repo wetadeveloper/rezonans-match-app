@@ -114,7 +114,7 @@ Le design, le logo, le code source et tout le contenu original de l'application 
 
 ## 10. Confidentialité
 
-Pour obtenir des informations sur la manière dont vos données personnelles sont traitées, veuillez consulter notre [Politique de Confidentialité](PRIVACY_fr.md).
+Pour obtenir des informations sur la manière dont vos données personnelles sont traitées, veuillez consulter notre [Politique de Confidentialité](../privacy/PRIVACY_fr.md).
 
 ---
 
